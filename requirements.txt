@@ -1,3 +1,5 @@
+--index-url https://pypi.org/simple/
+
 Django>=3.0.4
 django_countries>=6.1.2
 python-dotenv==0.12.0

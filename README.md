@@ -9,26 +9,22 @@ Following can be configured from the website
 The project was made to create **online templates.wwe drafts** based on some algorithm
 
 ### Current Champions (Original)
-|Championship|Champion|
-|---|---|
-|WWE Universal|Braun Strowman|
-|WWE|Drew McIntyre|
-|WWE Intercontinental|Sami Zayn|
-|WWE United States|Andrade Cien Almas|
-|WWE Raw Women's|Becky Lynch|
-|WWE Smackdown Women's|Bayley|
-|WWE Raw Tag Team|Angelo Dawkins/Montez Ford|
-|WWE Smackdown Tag Team|John Morrison/The Miz|
-|WWE Women's Tag Team|Bayley/Sasha Banks|
-|WWE 24/7|Mojo Rawley|
-|NXT Cruiserweight|Jordan Devlin|
-|NXT|Adam Cole|
-|NXT North American|Keith Lee|
-|NXT Tag Team|Matt Riddle/Pete Dunne|
-|NXT Women's|Rhea Ripley|
-|NXT United Kingdom|Walter|
-|NXT UK Tag Team|Mark Coffey/Wolfgang|
-|NXT UK Women's|Kay Lee Ray|
+| Championship           | Champion                    |
+|------------------------|-----------------------------|
+| WWE Universal          | Roman Reigns                |
+| WWE                    | Roman Reigns                |
+| WWE Intercontinental   | Gunther                     |
+| WWE United States      | Austin Theory               |
+| WWE Raw Women's        | Bianca Belair               |
+| WWE Smackdown Women's  | Rhea Ripley                 |
+| WWE Raw Tag Team       | Kevin Owens/Sami Zayn       |
+| WWE Smackdown Tag Team | Kevin Owens/Sami Zayn       |
+| WWE Women's Tag Team   | Liv Morgan/Raquel Rodriguez |
+| NXT                    | Carmelo Hayes               |
+| NXT North American     | Wes Lee                     |
+| NXT Tag Team           | Mark Coffey/Wolfgang        |
+| NXT Women's            | Indi Hartwell               |
+| NXT Women's Tag Team   | Alba Fyre/Isla Dawn         |
 
 
 ### Important commands
